@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project testing
+Simple Maven Project testi
